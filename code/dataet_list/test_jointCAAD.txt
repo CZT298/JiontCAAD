@@ -1,0 +1,6 @@
+bothCAAD/images/1.nii.gz	bothCAAD/labels/1.seg.nii.gz
+bothCAAD/images/2.nii.gz	bothCAAD/labels/2.seg.nii.gz
+bothCAAD/images/4.nii.gz	bothCAAD/labels/4.seg.nii.gz
+bothCAAD/images/6.nii.gz	bothCAAD/labels/6.seg.nii.gz
+bothCAAD/images/15.nii.gz	bothCAAD/labels/15.seg.nii.gz
+bothCAAD/images/16.nii.gz	bothCAAD/labels/16.seg.nii.gz

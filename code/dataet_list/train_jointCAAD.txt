@@ -1,0 +1,12 @@
+bothCAAD/images/3.nii.gz	bothCAAD/labels/3.seg.nii.gz
+bothCAAD/images/5.nii.gz	bothCAAD/labels/5.seg.nii.gz
+bothCAAD/images/7.nii.gz	bothCAAD/labels/7.seg.nii.gz
+bothCAAD/images/9.nii.gz	bothCAAD/labels/9.seg.nii.gz
+bothCAAD/images/10.nii.gz	bothCAAD/labels/10.seg.nii.gz
+bothCAAD/images/11.nii.gz	bothCAAD/labels/11.seg.nii.gz
+bothCAAD/images/12.nii.gz	bothCAAD/labels/12.seg.nii.gz
+bothCAAD/images/13.nii.gz	bothCAAD/labels/13.seg.nii.gz
+bothCAAD/images/14.nii.gz	bothCAAD/labels/14.seg.nii.gz
+bothCAAD/images/17.nii.gz	bothCAAD/labels/17.seg.nii.gz
+bothCAAD/images/18.nii.gz	bothCAAD/labels/18.seg.nii.gz
+bothCAAD/images/19.nii.gz	bothCAAD/labels/19.seg.nii.gz
